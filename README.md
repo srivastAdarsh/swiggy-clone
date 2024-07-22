@@ -66,9 +66,9 @@ swiggy-clone/                                     Root folder
 # Snapshots: 
 
 # Upcoming features : 
-1. Filtering options : Multiple options to filter restaurants such as delivery time, price range, Veg/Non-veg etc.
-2. Cuisines based search : Search restaurants using cuisines.
-3. Own backend server : To get rid of the CORS issue, will incorporate own backend using ## Node & ## Express, which will send request to Swiggy's server and then the restaurants will be displayed.
+1. ##Filtering options : Multiple options to filter restaurants such as delivery time, price range, Veg/Non-veg etc.
+2. ##Cuisines based search : Search restaurants using cuisines.
+3. ##Own backend server : To get rid of the CORS issue, will incorporate own backend using ## Node & ## Express, which will send request to Swiggy's server and then the restaurants will be displayed.
 
 # Contribution:
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
